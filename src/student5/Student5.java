@@ -10,10 +10,10 @@ public class Student5 {
         
         for (int i =students.length -1; i >=0; i--){
             System.out.println(students[i]);
-            System.ouy.println("yo");
+            System.out.println("yo");
         }
         
-        System.ouy.println("bye");
+        System.out.println("bye");
     }
     
 }
